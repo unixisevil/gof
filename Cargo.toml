@@ -1,0 +1,8 @@
+[package]
+name = "gof"
+version = "0.1.0"
+authors = ["yj <yujian0231@163.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.1"
